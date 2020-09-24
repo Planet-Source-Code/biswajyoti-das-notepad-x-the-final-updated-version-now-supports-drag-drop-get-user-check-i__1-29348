@@ -1,0 +1,24 @@
+Hi friends, this is an updated version of notepadx .. and probably the 
+last version of the project that I hold close to my heat ... which I claimed
+to be the most closest clone to MIcrosoft(R) Notepad .. and now I can proudly
+say .. this is the best clone for Notepad ... 
+
+Features: 
+
+* Word Wrap (Font also changes as we swap ... a bug left in the first version)
+* Select Font (Pressing Cancel won't matter .. a bug left in the first version)
+* Write .LOG at the top of your file and when you reopen the file you will see 
+  the difference at the bottom of the file ( a feature that exists in Notepad ) ...
+  pointed to me by John. Thanks friend. I have also included a file with .LOG for 
+  you to check out the feature ....
+* Drag DRop Files
+* Get user and Organization Name in About form.
+* Information about Total and Available Physical Memory in About Form.
+
+I hope you will like this and please vote for me ...
+
+Thanks for downloading my code .. I hope you enjoy this code as much as I 
+enjoyed programming it. 
+
+
+Biswajyoti Das (askbiswa@hotmail.com) 
